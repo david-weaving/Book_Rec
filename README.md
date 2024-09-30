@@ -5,4 +5,4 @@ Our project is a Book Recommendation System that helps users find books they'll 
 - David Weaver - [dwweaver@calpoly.edu]
 - Salif Sanogo - [sanogo@calpoly.edu]
 - NAME - [nnlu@calpoly.edu]
-- NAME - [rly14@calpoly.edu]
+- Rachael Ly - [rly14@calpoly.edu]
