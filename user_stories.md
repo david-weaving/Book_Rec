@@ -1,5 +1,6 @@
 User Stories:
 As an avid reader, I discover new books to broaden my horizons.
+
 As a user, I rate books so that future recommendations align with my preferences.
 As a reader, I create a profile to save my reading history and likes/dislikes.
 As someone exploring recommendations, I receive short descriptions with related genres highlighted to quickly evaluate options.
