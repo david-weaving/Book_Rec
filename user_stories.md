@@ -2,21 +2,32 @@ User Stories:
 As an avid reader, I discover new books to broaden my horizons.
 
 As a user, I rate books so that future recommendations align with my preferences.
+
 As a reader, I create a profile to save my reading history and likes/dislikes.
+
 As someone exploring recommendations, I receive short descriptions with related genres highlighted to quickly evaluate options.
+
 As a fan of specific books, I get recommendations for similar titles to enjoy options akin to my favorites.
+
 As a reader tracking progress, I keep track of all the books I have completed to decide what to read next.
+
 As someone currently reading, I track the book(s) I'm on to avoid losing my place.
+
 As a statistics enthusiast, I view how many books I've read over time to monitor my reading habits.
+
 As a fan of certain authors, I discover books from similar authors to find more books I might enjoy.
+
 As a user seeking details, I access specific attributes of a book, like the publication date and author.
+
 As someone receiving recommendations, I see personalized explanations to understand why each was suggested.
+
 As a community member, I share my favorite books and reviews to engage with other readers and contribute to the community.
 
 
 Exceptions:
 -No recommendations are available for the user.
 The system encourages the user to explore more genres or adjust their preferences to unlock new recommendations.
+
 -Recommends a book the reader has already read.
 The book is added to the ‘Already Read’ list, ensuring future suggestions exclude it.
 No books available in the user's read book catalog.
